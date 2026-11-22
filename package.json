@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "markdown-it": "^15.0.3",
-    "semantic-release": "^25.0.9",
+    "semantic-release": "^26.0.1",
     "yaml": "^2.8.1"
   }
 }
